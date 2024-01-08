@@ -1,4 +1,4 @@
-# CPSC 483 Final Project
+# GNNs for Drug-Disease and Drug-Aftereffect Predictions
 Final Project for CPSC 483: Deep-Learning on Graph Structured Data
 
 In this project, I implement the GCNMLP architecture to predict links between drugs and side effects and the NEDD architecture to predict links between drugs and diseases.
